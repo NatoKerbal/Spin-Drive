@@ -40,8 +40,6 @@ These mods are not required for the Spin Drive mod to run, but are currently sup
 Download the latest ZIP from [the SpaceDock listing](https://spacedock.info/mod/4300/Project%20Hail%20Mary%20Spin%20Drive) (or [the GitHub repo's Releases page](https://github.com/NatoKerbal/Spin-Drive/releases)) and simply extract the folder directly into your KSP installation's `GameData` folder using File Explorer's "Extract all" option. You may also extract the folder manually and place ONLY the `SpinDrive` folder inside `GameData`.
 
 When done correctly, the path to the mod should look like this:
-
-When done correctly, the path should look like this:
 ```
 KerbalSpaceProgram/
 └── GameData/
