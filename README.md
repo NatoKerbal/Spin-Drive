@@ -1,9 +1,9 @@
-# SpinDrive
+# Project Hail Mary Spin Drive
 
- "Following on from Dr. Grace's discovery, we've built an IR emitter set to the wavelength of CO2, which attracts the astrophage to this revolver face. The drive then rotates outwards, yeah? We increase the IR, the astrophage get excited, thrust the ship forward, and so on and so on." — Dr. Narender Sood, *Project Hail Mary (2026)*
+"Following on from Dr. Grace's discovery, we've built an IR emitter set to the wavelength of CO2, which attracts the Astrophage to this revolver face. The drive then rotates outwards, yeah? We increase the IR, the Astrophage get excited, thrust the ship forward, and so on and so on." — Dr. Narender Sood, *Project Hail Mary (2026)*
 
 A Kerbal Space Program parts mod inspired by Andy Weir's *[Project Hail Mary](https://en.wikipedia.org/wiki/Project_Hail_Mary)*.
-Adds astrophage-powered propulsion and related parts to the game.
+Adds Astrophage-powered propulsion and some related parts to the game.
 
 ![The SpinDrive on a KSP model of the movie's Hail Mary.](Media/screenshot81.png)
 
@@ -18,28 +18,28 @@ Adds astrophage-powered propulsion and related parts to the game.
 
 ## Dependencies
 
-These mods are **required** for SpinDrive to run! There is no CKAN support yet; you'll need to install each one (and their own dependencies) before installing SpinDrive in order for the mod to work.
+These mods are required for this mod to run properly. You'll need to install each one (and their own dependencies) in order for this one to work.
 
 - [Far Future Technologies](https://github.com/post-kerbin-mining-corporation/FarFutureTechnologies)
   - Needed for the spinning animation in the engines.
-- [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch)
+- [B9PartSwitch](https://github.com/blowfishpro/B9PartSwitch)
   - Fuel switches work through B9 Modules.
 
 ## Compatibilities
-These mods are **not required** for the SpinDrive mod to run, but are currently supported through patches.
+These mods are not required for the Spin Drive mod to run, but are currently supported through patches.
 
 - [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles), [CryoTanks](https://github.com/post-kerbin-mining-corporation/CryoTanks/releases), and [ReStock Plus](https://github.com/PorktoberRevolution/ReStocked)
-  - Allows more sizes of astrophage fuel tanks to be used in your craft.
-- [Waterfall](https://github.com/KSPModStewards/Waterfall)
-  - Astrophage engines have custom Waterfall plumes.
+  - The Enriched Astrophage fuel subtype can be selected and used in supported fuel tanks.
 - [Community Tech Tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree)
   - Astrophage technology can be properly unlocked in a science or career mode save.
 - [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit) and [VABOrganizer](https://github.com/KSPModStewards/VABOrganizer)
-  - Astrophage technologies are sorted into their respective subcategories within the stock parts list, as well as within a standalone "Spin Drives" mod category.
+  - Astrophage technologies are sorted into their respective subcategories within the parts list, as well as within a standalone "Spin Drives" mod category.
 
 ## Installation
 
-Download the ZIP file from this repository and extract it. The extracted folder should be named `SpinDrive`, and it should be placed inside your KSP installation's `GameData` folder (along with any other mods you have).
+Download the latest ZIP from [the SpaceDock listing](https://spacedock.info/mod/4300/Project%20Hail%20Mary%20Spin%20Drive) (or [the GitHub repo's Releases page](https://github.com/NatoKerbal/Spin-Drive/releases)) and simply extract the folder directly into your KSP installation's `GameData` folder using File Explorer's "Extract all" option. You may also extract the folder manually and place ONLY the `SpinDrive` folder inside `GameData`.
+
+When done correctly, the path to the mod should look like this:
 
 When done correctly, the path should look like this:
 ```
@@ -56,14 +56,14 @@ KerbalSpaceProgram/
 
 ## Known Issues
 
-- *Issues will  be listed here as they are found.*
+- When [Interstellar Fuel Switch](https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch) is installed, fuel tanks that use IFS' switcher (most of the stock ones) no longer receive the Enriched Astrophage fuel subtype. Tanks not affected by IFS remain unchanged, and this issue does not occur when Interstellar Fuel Switch Core is installed.
 
 ## Credits
 
 - **[NoLifeJordan](https://github.com/nolifejordan)**, original mod author
-- **[NatoKerbal](https://github.com/NatoKerbal)**, repository owner and mod maintainer
-- **[QuantumsHevy](https://github.com/QuantumsHevy)**, contributor and gallery craft creator
-- ***Project Hail Mary (2026)*** by Andy Weir, main inspiration
+- **[NatoKerbal](https://github.com/NatoKerbal)**, mod steward and developer
+- **[QuantumsHevy](https://github.com/QuantumsHevy)**, contributor and hotfixer
+- ***Project Hail Mary (2026)*** by Andy Weir
 
 ![A rear view of a KSP model of the movie's Hail Mary.](Media/screenshot78.png)
 
