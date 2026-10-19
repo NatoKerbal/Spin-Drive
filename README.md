@@ -71,6 +71,8 @@ KerbalSpaceProgram/
 
 ## License
 
+![Not By AI badge](Media/Developed-By-Humans-Not-By-AI-Badge-white.png)
+
 [The MIT License](./LICENSE) (MIT)
 Copyright © 2026
 
