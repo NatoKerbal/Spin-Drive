@@ -8,12 +8,14 @@ Adds Astrophage-powered propulsion and some related parts to the game.
 ![The SpinDrive on a KSP model of the movie's Hail Mary.](Media/screenshot81.png)
 
 ## Parts
+
 - **TC-96 "Komarov" Spin Drive**
 - **TC-96-950 "DuBois" Spin Drive Cluster**
 - **"Pepper" Astrophage Fuel Cell**
 - *...and more to come!*
 
 ## Dependencies
+
 PHM Spin Drive requires these mods in order to run as intended.
 
 - [ModuleManager](https://github.com/sarbian/ModuleManager)
@@ -21,6 +23,7 @@ PHM Spin Drive requires these mods in order to run as intended.
 - [B9PartSwitch](https://github.com/blowfishpro/B9PartSwitch)
 
 ## Compatibilities
+
 Patches that add compatibility with these mods are included with installation.
 
 - [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles)
@@ -31,6 +34,7 @@ Patches that add compatibility with these mods are included with installation.
 - [VABOrganizer](https://github.com/KSPModStewards/VABOrganizer)
 
 ## Installation
+
 Download the latest ZIP from [SpaceDock](https://spacedock.info/mod/4300/Project%20Hail%20Mary%20Spin%20Drive) and extract the folder directly into your installation's `GameData` folder using File Explorer's "Extract all" option.
 
 You may also extract the folder manually and place ONLY the parent `SpinDrive` folder inside `GameData`.
@@ -53,9 +57,11 @@ KerbalSpaceProgram/
 -->
 
 ## Known Issues
+
 - When [Interstellar Fuel Switch](https://spacedock.info/mod/175/Interstellar%20Fuel%20Switch) is installed, fuel tanks that use IFS' switcher (most of the stock ones) no longer receive the Enriched Astrophage fuel subtype. Tanks not affected by IFS remain unchanged, and this issue does not occur when Interstellar Fuel Switch Core is installed.
 
 ## Credits
+
 - **[NoLifeJordan](https://github.com/nolifejordan)**, original mod author
 - **[NatoKerbal](https://github.com/NatoKerbal)**, mod steward and developer
 - **[QuantumsHevy](https://github.com/QuantumsHevy)**, contributor and hotfixer
@@ -64,6 +70,7 @@ KerbalSpaceProgram/
 ![A rear view of a KSP model of the movie's Hail Mary.](Media/screenshot78.png)
 
 ## License
+
 [The MIT License](./LICENSE) (MIT)
 Copyright © 2026
 
