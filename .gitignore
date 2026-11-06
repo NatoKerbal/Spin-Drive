@@ -2,6 +2,9 @@
 .DS_Store
 Thumbs.db
 
+# Clone files
+GameData/SpinDrive/Parts/@thumbs/
+
 # IDE / build artifacts
 *.user
 *.suo
