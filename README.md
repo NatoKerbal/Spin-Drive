@@ -35,26 +35,11 @@ Patches that add compatibility with these mods are included with installation.
 
 ## Installation
 
+This mod is available to install via CKAN as of September 6th, 2026.
+
 Download the latest ZIP from [SpaceDock](https://spacedock.info/mod/4300/Project%20Hail%20Mary%20Spin%20Drive) and extract the folder directly into your installation's `GameData` folder using File Explorer's "Extract all" option.
 
 You may also extract the folder manually and place ONLY the parent `SpinDrive` folder inside `GameData`.
-
-This mod is also available to install via CKAN.
-
-<!--
-When done correctly, the path to the mod should look like this:
-```
-KerbalSpaceProgram/
-└── GameData/
-    ├── SpinDrive/
-    │   ├── Parts/
-    │   ├── Patches/
-    │   └── ...
-    ├── Squad/
-    ├── YourOtherMods/
-    └── ...
-```
--->
 
 ## Known Issues
 

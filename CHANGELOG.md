@@ -2,6 +2,18 @@
 
 All notable user-facing changes to SpinDrive are documented in this file. This mod is compatible with Kerbal Space Program 1.12.5 unless noted otherwise. Version numbers should follow semantic versioning.
 
+## v1.2.0
+
+### Added
+
+- Added some brand new Astrophage breeder parts that convert methalox to a CO2 and wastewater solution in order to create new Enriched Astrophage for use.
+- Added a new False IR plume option for existing spin drives via a bundled Overkill plume switcher.
+
+### Changed
+
+- Rebuilt the "Pepper" Astrophage Fuel Cell model, texture, and mechanic from the ground-up. The fuel cell now generates an inadmissible amount of heat that must be managed using `SystemHeat`.
+- Made some small edits to the default engine plume on the spin drives; now it's a lot more difficult to see the red haze they create.
+
 ## v1.1.0
 
 ### Fixed
