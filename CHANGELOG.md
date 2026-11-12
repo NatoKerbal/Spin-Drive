@@ -15,6 +15,7 @@ All notable user-facing changes to SpinDrive are documented in this file. This m
 - Made some small edits to the default engine plume on the spin drives; now it's a lot more difficult to see the red haze they create.
 - Changed where every part appears on the stock and community tech trees.
 - Adjusted the costs and entry costs of every part to be a bit more attainable.
+- Slightly improved Enriched Astrophage's resource definition.
 
 ## v1.1.0
 
