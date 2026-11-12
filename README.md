@@ -12,6 +12,7 @@ Adds Astrophage-powered propulsion and some related parts to the game.
 - **TC-96 "Komarov" Spin Drive**
 - **TC-96-950 "DuBois" Spin Drive Cluster**
 - **"Pepper" Astrophage Fuel Cell**
+- **PHB-Series Astrophage Breeders**
 - *...and more to come!*
 
 ## Dependencies

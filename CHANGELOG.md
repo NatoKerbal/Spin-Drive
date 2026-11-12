@@ -13,6 +13,8 @@ All notable user-facing changes to SpinDrive are documented in this file. This m
 
 - Rebuilt the "Pepper" Astrophage Fuel Cell model, texture, and mechanic from the ground-up. The fuel cell now generates an inadmissible amount of heat that must be managed using `SystemHeat`.
 - Made some small edits to the default engine plume on the spin drives; now it's a lot more difficult to see the red haze they create.
+- Changed where every part appears on the stock and community tech trees.
+- Adjusted the costs and entry costs of every part to be a bit more attainable.
 
 ## v1.1.0
 
