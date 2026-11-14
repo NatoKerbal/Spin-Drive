@@ -6,16 +6,17 @@ All notable user-facing changes to SpinDrive are documented in this file. This m
 
 ### Added
 
-- Added some brand new Astrophage breeder parts that convert methalox to a CO2 and wastewater solution in order to create new Enriched Astrophage for use.
+- Added two brand new Astrophage breeder parts that convert methalox to a CO2-wastewater solution and use EC in order to create new Enriched Astrophage.
 - Added a new False IR plume option for existing spin drives via a bundled Overkill plume switcher.
+- Added a few forward-compatibility patches between this mod and `AdditionalSpinDrives`.
 
 ### Changed
 
 - Rebuilt the "Pepper" Astrophage Fuel Cell model, texture, and mechanic from the ground-up. The fuel cell now generates an inadmissible amount of heat that must be managed using `SystemHeat`.
-- Made some small edits to the default engine plume on the spin drives; now it's a lot more difficult to see the red haze they create.
-- Changed where every part appears on the stock and community tech trees.
-- Adjusted the costs and entry costs of every part to be a bit more attainable.
-- Slightly improved Enriched Astrophage's resource definition.
+- Made some small edits to the default engine plume on the spin drives; now, it's a lot more difficult to see the red haze they create, and the space behind them is visibly distorted by heat.
+- Balanced where every part appears on the stock and community tech trees.
+- Adjusted the costs and entry costs of every part to be a bit more attainable in a career mode save.
+- Slightly improved Enriched Astrophage's resource definition. Exercise caution when draining this stuff!
 
 ## v1.1.0
 
