@@ -2,6 +2,16 @@
 
 All notable user-facing changes to SpinDrive are documented in this file. This mod is compatible with Kerbal Space Program 1.12.5 unless noted otherwise. Version numbers should follow semantic versioning.
 
+## v1.2.1
+
+## Fixed
+
+- Fixed the Enriched Astrophage fuel switch tank type being far too heavy. Its dry mass was copied from a much denser tank type and made up over half of a full tank's mass. It should now sits in line with other non-cryogenic tanks.
+
+### Changed
+
+- Rebalanced the Enriched Astrophage tank type's cost so storing Astrophage is much cheaper than producing it.
+
 ## v1.2.0
 
 ### Added
