@@ -12,7 +12,7 @@ Adds Astrophage-powered propulsion and some related parts to the game.
 - **TC-96 "Komarov" Spin Drive**
 - **TC-96-950 "DuBois" Spin Drive Cluster**
 - **"Pepper" Astrophage Fuel Cell**
-- **PHB-Series Astrophage Breeders**
+- **PHB-Series Astrophage Breeders "Li" and "Redell"**
 - *...and more to come!*
 
 ## Dependencies
@@ -30,6 +30,7 @@ Patches that add compatibility with these mods are included with installation.
 - [Near Future Launch Vehicles](https://github.com/post-kerbin-mining-corporation/NearFutureLaunchVehicles)
 - [CryoTanks](https://github.com/post-kerbin-mining-corporation/CryoTanks/releases)
 - [Restock+](https://github.com/PorktoberRevolution/ReStocked)
+- [Additional Spin Drives](https://spacedock.info/mod/4720/Additional%20Spin%20Drives)
 - [Community Tech Tree](https://github.com/post-kerbin-mining-corporation/CommunityTechTree)
 - [Community Category Kit](https://github.com/UmbraSpaceIndustries/CommunityCategoryKit)
 - [VABOrganizer](https://github.com/KSPModStewards/VABOrganizer)

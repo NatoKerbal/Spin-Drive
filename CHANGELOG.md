@@ -4,9 +4,9 @@ All notable user-facing changes to SpinDrive are documented in this file. This m
 
 ## v1.2.1
 
-## Fixed
+### Fixed
 
-- Fixed the Enriched Astrophage fuel switch tank type being far too heavy. Its dry mass was copied from a much denser tank type and made up over half of a full tank's mass. It should now sits in line with other non-cryogenic tanks.
+- Fixed the Enriched Astrophage fuel switch tank type being far too heavy for balanced gameplay. Its dry mass was copied from a much denser tank type and ended up adding over half of a full tank's mass. It should now sit in line with other non-cryogenic tanks.
 
 ### Changed
 
